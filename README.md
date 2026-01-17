@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi, I’m Andreea
 
-<!--
-**andreeasmarandache/andreeasmarandache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer | Manual & Automation
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat)](https://www.linkedin.com/in/andreea-smarandache-software-qa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat)](https://andreeasmarandache.github.io/)
+[![CV](https://img.shields.io/badge/CV-View-informational?style=flat)]([https://andreeasmarandache.github.io/](https://github.com/andreeasmarandache/andreeasmarandache.github.io/blob/main/CV%20-%20QA%20Engineer.pdf))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### QA Engineer
+- 3+ years of experience
+- Enterprise systems
+- Salesforce Automation (SFA)
+- Large-scale telecom platforms
+- SaaS products
+  
+---
+
+| Area                                | Details                                                                    |
+| ----------------------------------- | -------------------------------------------------------------------------- |
+| **Manual Testing – Functional**     | Regression, Exploratory, Smoke, Sanity, Integration, End-to-End, UI/UX     |
+| **Manual Testing – Non-Functional** | Compatibility, Responsiveness, Performance validation                      |
+| **Web & Mobile Platforms**          | Web applications, Android mobile applications                              |
+| **Automation Testing**              | Java, Selenium, Selenide, Cucumber, TestNG                                 |
+| **Build & IDE**                     | Maven, IntelliJ IDEA                                                       |
+| **API Testing**                     | REST APIs, Postman, Swagger, REST Assured                                  |
+| **Database Testing**                | Oracle SQL Developer, MySQL                                                |
+| **Testing Approaches**              | Black Box, Gray Box (analysing code changes and adapting tests)            |
+| **QA & Collaboration Tools**        | Jira, Azure DevOps, Enterprise Tester, Confluence                          |
+| **Version Control**                 | Git (VCS), GitHub, Bitbucket                                               |
+| **CI/CD**                           | TeamCity (enterprise projects), Jenkins (personal projects),GitHub Actions |
+| **Monitoring & Logs**               | Kibana, New Relic                                                          |
+| **Methodology**                     | Agile Scrum                                                                |
+
+---
+
+Location & availability  
+• Based in Romania  
+• Open to remote or hybrid opportunities
+
+<h3>Explore my public repositories</h3>
+
+• UI Automation (Java)  
+• API Automation (Java)  
+• API Testing Collections (Postman + JavaScript)
+
+
+
