@@ -6,8 +6,8 @@ QA Engineer | Manual & Automation
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat)](https://andreeasmarandache.github.io/)
 [![CV](https://img.shields.io/badge/CV-View-informational?style=flat)](https://github.com/andreeasmarandache/andreeasmarandache.github.io/blob/main/CV%20-%20QA%20Engineer.pdf)
 
-### QA Engineer
-- 3+ years of experience
+### Experience
+- 3+ years
 - Enterprise systems
 - Salesforce Automation (SFA)
 - Large-scale telecom platforms
