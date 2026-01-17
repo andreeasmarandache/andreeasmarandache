@@ -4,7 +4,7 @@ QA Engineer | Manual & Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat)](https://www.linkedin.com/in/andreea-smarandache-software-qa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat)](https://andreeasmarandache.github.io/)
-[![CV](https://img.shields.io/badge/CV-View-informational?style=flat)]([https://andreeasmarandache.github.io/](https://github.com/andreeasmarandache/andreeasmarandache.github.io/blob/main/CV%20-%20QA%20Engineer.pdf))
+[![CV](https://img.shields.io/badge/CV-View-informational?style=flat)](https://github.com/andreeasmarandache/andreeasmarandache.github.io/blob/main/CV%20-%20QA%20Engineer.pdf)
 
 ### QA Engineer
 - 3+ years of experience
