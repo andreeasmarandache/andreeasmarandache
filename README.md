@@ -15,21 +15,21 @@ QA Engineer | Manual & Automation
   
 ---
 
-| Area                                | Details                                                                    |
-| ----------------------------------- | -------------------------------------------------------------------------- |
-| **Manual Testing – Functional**     | Regression, Exploratory, Smoke, Sanity, Integration, End-to-End, UI/UX     |
-| **Manual Testing – Non-Functional** | Compatibility, Responsiveness, Performance validation                      |
-| **Web & Mobile Platforms**          | Web applications, Android mobile applications                              |
-| **Automation Testing**              | Java, Selenium, Selenide, Cucumber, TestNG                                 |
-| **Build & IDE**                     | Maven, IntelliJ IDEA                                                       |
-| **API Testing**                     | REST APIs, Postman, Swagger, REST Assured                                  |
-| **Database Testing**                | Oracle SQL Developer, MySQL                                                |
-| **Testing Approaches**              | Black Box, Gray Box (analysing code changes and adapting tests)            |
-| **QA & Collaboration Tools**        | Jira, Azure DevOps, Enterprise Tester, Confluence                          |
-| **Version Control**                 | Git (VCS), GitHub, Bitbucket                                               |
-| **CI/CD**                           | TeamCity (enterprise projects), Jenkins (personal projects),GitHub Actions |
-| **Monitoring & Logs**               | Kibana, New Relic                                                          |
-| **Methodology**                     | Agile Scrum                                                                |
+| Area                                | Details                                                                     |
+| ----------------------------------- | --------------------------------------------------------------------------- |
+| **Manual Testing – Functional**     | Regression, Exploratory, Smoke, Sanity, Integration, End-to-End, UI/UX      |
+| **Manual Testing – Non-Functional** | Compatibility, Responsiveness, Performance validation                       |
+| **Web & Mobile Platforms**          | Web applications, Android mobile applications                               |
+| **Automation Testing**              | Java, Selenium, Selenide, Cucumber, TestNG                                  |
+| **Build & IDE**                     | Maven, IntelliJ IDEA                                                        |
+| **API Testing**                     | REST APIs, Postman, Swagger, REST Assured                                   |
+| **Database Testing**                | Oracle SQL Developer, MySQL                                                 |
+| **Testing Approaches**              | Black Box, Gray Box (analysing code changes and adapting tests)             |
+| **QA & Collaboration Tools**        | Jira, Azure DevOps, Enterprise Tester, Confluence                           |
+| **Version Control**                 | Git (VCS), GitHub, Bitbucket                                                |
+| **CI/CD**                           | TeamCity (enterprise projects), Jenkins & GitHub Actions (personal projects)|
+| **Monitoring & Logs**               | Kibana, New Relic                                                           |
+| **Methodology**                     | Agile Scrum                                                                 |
 
 ---
 
