@@ -39,9 +39,11 @@ Location & availability
 
 <h3>Explore my public repositories</h3>
 
-• UI Automation (Java)  
-• API Automation (Java)  
-• API Testing Collections (Postman + JavaScript)
+• UI Automation (Selenide, Playwright)
+• API Automation (Rest-Assured)
+• Hybrid Testing (UI + API)
+• CI Integration (GitHub Actions/Jenkins)
+• Postman API Collections
 
 
 
