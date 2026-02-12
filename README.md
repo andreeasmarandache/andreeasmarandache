@@ -33,17 +33,18 @@ QA Engineer | Manual & Automation
 
 ---
 
-Location & availability  
-• Based in Romania  
-• Open to remote or hybrid opportunities
+### Location & Availability
 
-<h3>Explore my public repositories</h3>
+- Based in Romania
+- Open to remote or hybrid opportunities
 
-• UI Automation (Selenide, Playwright)
-• API Automation (Rest-Assured)
-• Hybrid Testing (UI + API)
-• CI Integration (GitHub Actions/Jenkins)
-• Postman API Collections
+### Explore My Public Repositories
+
+- UI Automation (Selenide, Playwright)
+- API Automation (Rest-Assured)
+- Hybrid Testing (UI + API)
+- CI Integration (GitHub Actions, Jenkins)
+- Postman API Collections
 
 
 
